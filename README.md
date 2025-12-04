@@ -1,4 +1,4 @@
-# Cocoa_Price_Prediction
+# Time Series Modeling for Cocoa Price Forecasting
 
 **Time Series Modeling for Cocoa Price Forecasting**
 *STA457 Time Series Analysis Capstone Project* · Jan 2025 – Apr 2025
